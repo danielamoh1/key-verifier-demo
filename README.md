@@ -33,7 +33,7 @@ public_key.pem
 
 2. Start the Verifier
 
-python verifier.py
+python verifier.py or python3 verifier.py 
 
 You should see:
 
@@ -43,7 +43,7 @@ You should see:
 
 In a second terminal:
 
-python holder.py
+python holder.py or python3 holder.py
 
 Output:
 
